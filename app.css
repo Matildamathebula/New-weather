@@ -86,7 +86,7 @@ justify-content: end;
 .weather-forecast-temperature{
     padding: 0 18px;
 }
-.weather-forecast-container{
+.weather-forecast{
     justify-content: space-around;
     display: flex;
     margin-top: 30px;
